@@ -214,7 +214,8 @@ export default function Home() {
               available now for macOS. windows coming soon.
             </p>
             <a
-              href="#"
+              href="/downloads/dawn-0.1.0-alpha.dmg"
+              download
               className="inline-flex items-center gap-3 px-8 py-4 bg-white text-black rounded-full text-sm font-medium hover:bg-[#e4e4e7] transition-colors"
             >
               <svg
