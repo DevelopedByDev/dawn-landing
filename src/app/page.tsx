@@ -214,7 +214,7 @@ export default function Home() {
               available now for macOS. windows coming soon.
             </p>
             <a
-              href="https://github.com/DevelopedByDev/dawn-landing/releases/download/v0.1.0-alpha-4/dawn-0.1.0-alpha.dmg"
+              href="https://github.com/DevelopedByDev/dawn-landing/releases/download/v0.1.1-alpha/dawn-0.1.1-alpha.dmg"
               className="inline-flex items-center gap-3 px-8 py-4 bg-white text-black rounded-full text-sm font-medium hover:bg-[#e4e4e7] transition-colors"
             >
               <svg
